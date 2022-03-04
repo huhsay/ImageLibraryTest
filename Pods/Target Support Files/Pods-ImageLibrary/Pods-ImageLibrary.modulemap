@@ -1,0 +1,6 @@
+module Pods_ImageLibrary {
+  umbrella header "Pods-ImageLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}
